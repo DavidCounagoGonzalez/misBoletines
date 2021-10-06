@@ -1,2 +1,2 @@
 # misBoletines
-Guardado de todos los Boletines de programación.
+Guardado para todos los Boletines de Programación.
